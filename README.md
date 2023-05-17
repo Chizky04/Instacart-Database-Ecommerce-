@@ -1,2 +1,2 @@
 # My-Sql-Portfolio
-This portfolio contains all the SQL codes written with PostgreSQL which was done during my bootcamp
+This portfolio contains a collection of all my sample SQL files written with PostgreSQL and SQLite
